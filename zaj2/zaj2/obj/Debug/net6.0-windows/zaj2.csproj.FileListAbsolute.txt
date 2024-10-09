@@ -1,0 +1,17 @@
+D:\175281\zaj2\zaj2\bin\Debug\net6.0-windows\zaj2.exe
+D:\175281\zaj2\zaj2\bin\Debug\net6.0-windows\zaj2.deps.json
+D:\175281\zaj2\zaj2\bin\Debug\net6.0-windows\zaj2.runtimeconfig.json
+D:\175281\zaj2\zaj2\bin\Debug\net6.0-windows\zaj2.dll
+D:\175281\zaj2\zaj2\bin\Debug\net6.0-windows\zaj2.pdb
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.csproj.AssemblyReference.cache
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.Form1.resources
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.csproj.GenerateResource.cache
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.AssemblyInfoInputs.cache
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.AssemblyInfo.cs
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.csproj.CoreCompileInputs.cache
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.dll
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\refint\zaj2.dll
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.pdb
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\zaj2.genruntimeconfig.cache
+D:\175281\zaj2\zaj2\obj\Debug\net6.0-windows\ref\zaj2.dll
