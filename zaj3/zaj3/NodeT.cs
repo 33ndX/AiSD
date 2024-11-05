@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace zaj3
 {
-    public class Node
+    public class NodeT
     {
-        public Node next;
-        public Node prev;
+        public NodeT lewe;
+        public NodeT prawe;
+        public NodeT rodzic;
         public int data;
 
-        public Node(int data)
+        public NodeT(int data)
         {
+            lewe = null;
+            prawe = null;
+            rodzic = null;
             this.data = data;
         }
     }
-
 }
