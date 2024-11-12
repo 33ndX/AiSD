@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\zaj3\\zaj3\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\zaj3\\zaj3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\zaj3\\zaj3\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F5C24-3ADA-47B3-824C-6D82E6CF3DAE}|zaj3\\zaj3.csproj|solutionrelative:zaj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "List.cs",
               "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\List.cs",
               "RelativeDocumentMoniker": "zaj3\\List.cs",
               "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\List.cs",
               "RelativeToolTip": "zaj3\\List.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAjwGMAAAACAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwGMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T21:18:25.32Z",
               "IsPinned": true,
@@ -49,52 +45,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Node.cs",
-              "RelativeDocumentMoniker": "zaj3\\Node.cs",
-              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Node.cs",
-              "RelativeToolTip": "zaj3\\Node.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T19:14:33.115Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Tree.cs",
               "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Tree.cs",
               "RelativeDocumentMoniker": "zaj3\\Tree.cs",
               "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Tree.cs",
               "RelativeToolTip": "zaj3\\Tree.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEEAAAAFAAAA",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAWwJQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T19:29:29.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NodeT.cs",
               "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\NodeT.cs",
               "RelativeDocumentMoniker": "zaj3\\NodeT.cs",
               "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\NodeT.cs",
               "RelativeToolTip": "zaj3\\NodeT.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T19:29:10.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Program.cs",
               "RelativeDocumentMoniker": "zaj3\\Program.cs",
               "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\zaj3\\zaj3\\Program.cs",
               "RelativeToolTip": "zaj3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAtAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T19:14:36.039Z",
               "EditorCaption": ""

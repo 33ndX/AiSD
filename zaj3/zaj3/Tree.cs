@@ -1,48 +1,158 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
+
 
 namespace zaj3
 {
     public class Tree
     {
         
-        public NodeT korzen;
+        public NodeT root;
 
         public Tree()
         {
-            korzen = null;
+            root = null;
         }
 
-        public void AddToTree(int data)
+        public NodeT FindParent(NodeT dziecko)
         {
-            korzen = AddToTree(korzen, data, null);
+            var tmp = this.root;
+            while (true) { 
+                if (dziecko.data < tmp.data)
+                {
+                    if (tmp.lewe == null)
+                    {
+                        return tmp;
+                    }
+                    else
+                    {
+                        tmp = tmp.lewe;
+                    }
+              
+                }
+                else
+                {
+                    if (tmp.prawe == null)
+                    {
+                        return tmp;
+                    }
+                    else
+                    {
+                        tmp = tmp.prawe;
+                    }
+                }
+            }
         }
 
-        public NodeT AddToTree(NodeT nodeT, int data, NodeT rodzic)
+
+        public NodeT Add(int num)
         {
-            if (nodeT == null)
+            var dziecko = new NodeT(num);
+            if(this.root == null) 
             {
-                NodeT nT = new NodeT(data);
-                nT.rodzic = rodzic;
-                return nT;
+                this.root = dziecko;
             }
-
-            if (data <= nodeT.data)
+            else
             {
-                nodeT.lewe = AddToTree(nodeT.lewe, data, nodeT);
+                var rodzic = this.FindParent(dziecko);
+                if (dziecko.data < rodzic.data)
+                {
+                    rodzic.LinkLeft(dziecko);
+                }
+                else
+                {
+                    rodzic.LinkRight(dziecko);
+                }
             }
+            return dziecko;
+        }
 
-            else if (data > nodeT.data)
+        public void Delete(int num)
+        {
+            NodeT currnet = root;
+            NodeT rodzic = null;
+
+            while (currnet.data != num && currnet != null)
             {
-                nodeT.prawe = AddToTree(nodeT.prawe, data, nodeT);
+                rodzic = currnet;
+                if (num < currnet.data)
+                {
+                    currnet = currnet.lewe;
+                }
+                else
+                {
+                    currnet = currnet.prawe;
+                }
             }
+            
+            if(currnet == null)
+            {
+                return;
+            }
+            //Bez dziecka
 
-            return nodeT;
+            if (currnet.lewe == null && currnet.prawe == null)
+            {
+                if(currnet == null)
+                {
+                    root = null;
+                }
+                else if (rodzic.lewe == currnet)
+                {
+                    rodzic.lewe = null;
+                }
+                else
+                {
+                    rodzic.prawe = null;
+                }                
+            }
+            //1 dziecko
+            else if(currnet.lewe == null || currnet.prawe == null)
+            {
+                var dziecko = new NodeT(num);
+                if(currnet == root)
+                {
+                    root = dziecko;
+                }
+                else if (rodzic.lewe == currnet)
+                {
+                    rodzic.LinkLeft(dziecko);
+                }
+                else
+                {
+                    rodzic.LinkRight(dziecko);
+                }
+            }
+            //2 dzieci
+            else
+            {
+                NodeT nastepcaRodzica = currnet;
+                NodeT nastepca = currnet.prawe;
+
+                while(nastepca.lewe != null)
+                {
+                    nastepcaRodzica = nastepca;
+                    nastepca = nastepca.lewe;
+                }
+
+                currnet.data = nastepca.data;
+
+                if(nastepcaRodzica.lewe == nastepca)
+                {
+                    nastepcaRodzica.lewe = nastepca.prawe;
+                }
+                else
+                {
+                    nastepcaRodzica.prawe = nastepca.prawe;
+                }
+            }
         }
 
         public void InOrder(NodeT node)
@@ -61,8 +171,15 @@ namespace zaj3
 
         public void InOrder()
         {
-            InOrder(korzen);
+            InOrder(root);
         }
+
+
+
+
+
+
+
     }
 }
 

@@ -20,5 +20,23 @@ namespace zaj3
             rodzic = null;
             this.data = data;
         }
+
+        public void LinkLeft(NodeT dziecko)
+        {
+            this.lewe = dziecko;
+            if (dziecko != null)
+            {
+                dziecko.rodzic = this;
+            }
+        }
+
+        public void LinkRight(NodeT dziecko)
+        {
+            this.prawe = dziecko;
+            if (dziecko != null)
+            {
+                dziecko.rodzic = this;
+            }
+        }
     }
 }
