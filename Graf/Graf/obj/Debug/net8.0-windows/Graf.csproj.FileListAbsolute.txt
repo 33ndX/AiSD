@@ -1,0 +1,17 @@
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\bin\Debug\net8.0-windows\Graf.exe
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\bin\Debug\net8.0-windows\Graf.deps.json
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\bin\Debug\net8.0-windows\Graf.runtimeconfig.json
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\bin\Debug\net8.0-windows\Graf.dll
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\bin\Debug\net8.0-windows\Graf.pdb
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.Form1.resources
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.csproj.GenerateResource.cache
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.AssemblyInfoInputs.cache
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.AssemblyInfo.cs
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.csproj.CoreCompileInputs.cache
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.sourcelink.json
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.dll
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\refint\Graf.dll
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.pdb
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\Graf.genruntimeconfig.cache
+C:\Users\EndX\Desktop\Repo\AiSD\Graf\Graf\obj\Debug\net8.0-windows\ref\Graf.dll

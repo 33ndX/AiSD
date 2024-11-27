@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\graf\\graf\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|solutionrelative:graf\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\graf\\graf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|solutionrelative:graf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\graf\\graf\\grafy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113830F9-44D8-4B07-BD32-A40DBC10159F}|Graf\\Graf.csproj|solutionrelative:graf\\grafy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\Program.cs",
+              "RelativeDocumentMoniker": "Graf\\Program.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\Program.cs",
+              "RelativeToolTip": "Graf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:02:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NodeG.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\NodeG.cs",
+              "RelativeDocumentMoniker": "Graf\\NodeG.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\NodeG.cs",
+              "RelativeToolTip": "Graf\\NodeG.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:52:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grafy.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\Grafy.cs",
+              "RelativeDocumentMoniker": "Graf\\Grafy.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Graf\\Graf\\Grafy.cs",
+              "RelativeToolTip": "Graf\\Grafy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:51:39.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
