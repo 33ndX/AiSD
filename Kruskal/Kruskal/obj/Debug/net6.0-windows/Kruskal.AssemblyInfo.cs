@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kruskal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16dda8d00e3ea1349e142e4a189573ba31ef8719")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kruskal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kruskal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

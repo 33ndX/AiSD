@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\kruskal\\kruskal\\graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|solutionrelative:kruskal\\graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\kruskal\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|solutionrelative:kruskal\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\kruskal\\kruskal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|solutionrelative:kruskal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\kruskal\\nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAF719C-203E-4AB8-8ED2-DAF550FC1B73}|Kruskal\\Kruskal.csproj|solutionrelative:kruskal\\nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Program.cs",
+              "RelativeDocumentMoniker": "Kruskal\\Program.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Program.cs",
+              "RelativeToolTip": "Kruskal\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:34:42.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Edge.cs",
+              "RelativeDocumentMoniker": "Kruskal\\Edge.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Edge.cs",
+              "RelativeToolTip": "Kruskal\\Edge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:31:13.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graf1.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Graf1.cs",
+              "RelativeDocumentMoniker": "Kruskal\\Graf1.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\Graf1.cs",
+              "RelativeToolTip": "Kruskal\\Graf1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:31:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodeG1.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\NodeG1.cs",
+              "RelativeDocumentMoniker": "Kruskal\\NodeG1.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Kruskal\\Kruskal\\NodeG1.cs",
+              "RelativeToolTip": "Kruskal\\NodeG1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:31:15.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
