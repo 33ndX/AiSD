@@ -39,7 +39,7 @@ namespace Kruskal
             new Edge(nodes[5], nodes[7], 11),
             new Edge(nodes[3], nodes[7], 12)
         };
-            Graf1 g1 = new Graf1(nodes, edges);
+            GrafG1 g1 = new GrafG1(nodes, edges);
             var wynik = g1.Kruskal();
             Console.WriteLine("\nWynik");
             foreach (var edge in wynik.edges)

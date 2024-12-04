@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\175281\\repo\\AiSD\\Kruskal\\Kruskal\\Kruskal.csproj": {}
+    "D:\\175281\\repo\\AiSD\\Dijkstry\\Dijkstry\\Dijkstry.csproj": {}
   },
   "projects": {
-    "D:\\175281\\repo\\AiSD\\Kruskal\\Kruskal\\Kruskal.csproj": {
+    "D:\\175281\\repo\\AiSD\\Dijkstry\\Dijkstry\\Dijkstry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\175281\\repo\\AiSD\\Kruskal\\Kruskal\\Kruskal.csproj",
-        "projectName": "Kruskal",
-        "projectPath": "D:\\175281\\repo\\AiSD\\Kruskal\\Kruskal\\Kruskal.csproj",
+        "projectUniqueName": "D:\\175281\\repo\\AiSD\\Dijkstry\\Dijkstry\\Dijkstry.csproj",
+        "projectName": "Dijkstry",
+        "projectPath": "D:\\175281\\repo\\AiSD\\Dijkstry\\Dijkstry\\Dijkstry.csproj",
         "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
-        "outputPath": "D:\\175281\\repo\\AiSD\\Kruskal\\Kruskal\\obj\\",
+        "outputPath": "D:\\175281\\repo\\AiSD\\Dijkstry\\Dijkstry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",

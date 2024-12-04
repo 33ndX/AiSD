@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Kruskal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Dijkstry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Kruskal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Kruskal")]
+[assembly: System.Reflection.AssemblyProductAttribute("Dijkstry")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Dijkstry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

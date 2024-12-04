@@ -7,17 +7,17 @@ using System.Windows.Forms.VisualStyles;
 
 namespace Kruskal
 {
-    internal class Graf1
+    internal class GrafG1
     {
         List <NodeG1> nodes = new List <NodeG1>();
         List<Edge> edges = new List<Edge>();
 
-        public Graf1()
+        public GrafG1()
         {
 
         }
 
-        public void Graf1(Edge e)
+        public GrafG1(Edge e)
         {
             edges.Add(e);
             nodes.Add(e.start);
@@ -61,14 +61,14 @@ namespace Kruskal
                     }
                     break;
                 case 2:
-                    Join(new Graf1(e));
+                    Join(new GrafG1(e));
                     break;
                 default:
                     break;
             }
         }
 
-        public void Join(Graf1 g1)
+        public void Join(GrafG1 g1)
         {
             foreach (var e in g1.edges)
             {
@@ -86,9 +86,10 @@ namespace Kruskal
             }
         }
 
-        public Graf1 Kruskal()
+        public GrafG1 Kruskal()
         {
-            Graf1 mst = new Graf1();
+            //this
+            GrafG1 mst = new GrafG1();
             foreach (var e in edges)
             {
                 mst.AddEdge(e);
@@ -125,6 +126,9 @@ namespace Kruskal
             return odwiedzone;
         }
     }
+//Generowanie listy
+//Metoda ma sortować i ten algorytm co ma być
 
+// 
 
 }
