@@ -1,28 +1,28 @@
-using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
+	using System;
+	using System.Collections.Concurrent;
+	using System.Collections.Generic;
+	using System.Linq;
+	using System.Runtime.InteropServices;
+	using System.Security.Cryptography.X509Certificates;
+	using System.Text;
+	using System.Threading.Tasks;
 
-namespace Projekt0
-{
-    class Program
-    {
+	namespace Projekt0
+	{
+    		class Program
+    		{
        
        
 
-        static void Main(string[] args)
-        {
+        		static void Main(string[] args)
+        		{
            
             
            
 
-        }
-    }
-}
+        		}
+    		   }
+	}
 
 
 
