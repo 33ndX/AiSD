@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\huffman\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|solutionrelative:huffman\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\huffman\\huffman\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|solutionrelative:huffman\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\huffman\\nodets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14885FAC-B6EA-4F90-92F0-B9CCC743E350}|Huffman\\Huffman.csproj|solutionrelative:huffman\\nodets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\Tree.cs",
+              "RelativeDocumentMoniker": "Huffman\\Tree.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\Tree.cs",
+              "RelativeToolTip": "Huffman\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:28:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodeTS.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\NodeTS.cs",
+              "RelativeDocumentMoniker": "Huffman\\NodeTS.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\NodeTS.cs",
+              "RelativeToolTip": "Huffman\\NodeTS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:27:33.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodeT.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\NodeT.cs",
+              "RelativeDocumentMoniker": "Huffman\\NodeT.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\Huffman\\Huffman\\NodeT.cs",
+              "RelativeToolTip": "Huffman\\NodeT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:27:00.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
