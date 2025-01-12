@@ -1,0 +1,14 @@
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\net6.0\LongestCommonSubsequence.exe
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\net6.0\LongestCommonSubsequence.deps.json
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\net6.0\LongestCommonSubsequence.runtimeconfig.json
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\net6.0\LongestCommonSubsequence.dll
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\net6.0\LongestCommonSubsequence.pdb
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.AssemblyInfoInputs.cache
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.AssemblyInfo.cs
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.dll
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\refint\LongestCommonSubsequence.dll
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.pdb
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\LongestCommonSubsequence.genruntimeconfig.cache
+C:\Users\EndX\Desktop\Repo\Prace domowe (konsola)\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\net6.0\ref\LongestCommonSubsequence.dll

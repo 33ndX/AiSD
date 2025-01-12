@@ -1,0 +1,14 @@
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.AssemblyInfoInputs.cache
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.AssemblyInfo.cs
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.csproj.CoreCompileInputs.cache
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net6.0\ListyDwukierunkowe.exe
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net6.0\ListyDwukierunkowe.deps.json
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net6.0\ListyDwukierunkowe.runtimeconfig.json
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net6.0\ListyDwukierunkowe.dll
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\bin\Debug\net6.0\ListyDwukierunkowe.pdb
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.dll
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\refint\ListyDwukierunkowe.dll
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.pdb
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ListyDwukierunkowe.genruntimeconfig.cache
+C:\Users\EndX\Desktop\Repo\ListyDwukierunkowe\ListyDwukierunkowe\obj\Debug\net6.0\ref\ListyDwukierunkowe.dll

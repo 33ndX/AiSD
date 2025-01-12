@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|c:\\users\\endx\\desktop\\repo\\listydwukierunkowe\\listydwukierunkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|solutionrelative:listydwukierunkowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|c:\\users\\endx\\desktop\\repo\\listydwukierunkowe\\listydwukierunkowe\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|solutionrelative:listydwukierunkowe\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|c:\\users\\endx\\desktop\\repo\\listydwukierunkowe\\listydwukierunkowe\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9999C181-76BF-4562-A42E-822A6B08EFE5}|ListyDwukierunkowe\\ListyDwukierunkowe.csproj|solutionrelative:listydwukierunkowe\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\List.cs",
+              "RelativeDocumentMoniker": "ListyDwukierunkowe\\List.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\List.cs",
+              "RelativeToolTip": "ListyDwukierunkowe\\List.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv2cAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:58:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\Node.cs",
+              "RelativeDocumentMoniker": "ListyDwukierunkowe\\Node.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\Node.cs",
+              "RelativeToolTip": "ListyDwukierunkowe\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:57:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\Program.cs",
+              "RelativeDocumentMoniker": "ListyDwukierunkowe\\Program.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\ListyDwukierunkowe\\ListyDwukierunkowe\\Program.cs",
+              "RelativeToolTip": "ListyDwukierunkowe\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:56:58.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
