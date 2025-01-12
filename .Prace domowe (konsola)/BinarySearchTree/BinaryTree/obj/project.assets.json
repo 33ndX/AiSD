@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\BinaryTree.csproj",
+      "projectUniqueName": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\BinaryTree.csproj",
       "projectName": "BinaryTree",
-      "projectPath": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\BinaryTree.csproj",
+      "projectPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\BinaryTree.csproj",
       "packagesPath": "C:\\Users\\EndX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\obj\\",
+      "outputPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

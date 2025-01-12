@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\",
+  "WorkspaceRootPath": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\binarytree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\binarytree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|c:\\users\\endx\\desktop\\repo\\prace domowe (konsola)\\binarysearchtree\\binarytree\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\binarytree\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|c:\\users\\endx\\desktop\\repo\\aisd\\.prace domowe (konsola)\\binarysearchtree\\binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589E4793-0AEC-49FA-B1C1-A49E0D0F5C5B}|BinaryTree\\BinaryTree.csproj|solutionrelative:binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NodeT.cs",
-              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\NodeT.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\NodeT.cs",
               "RelativeDocumentMoniker": "BinaryTree\\NodeT.cs",
-              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\NodeT.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\NodeT.cs",
               "RelativeToolTip": "BinaryTree\\NodeT.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -40,26 +40,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Tree.cs",
-              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Tree.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Tree.cs",
               "RelativeDocumentMoniker": "BinaryTree\\Tree.cs",
-              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Tree.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Tree.cs",
               "RelativeToolTip": "BinaryTree\\Tree.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T16:17:10.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Program.cs",
               "RelativeDocumentMoniker": "BinaryTree\\Program.cs",
-              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Program.cs",
+              "ToolTip": "C:\\Users\\EndX\\Desktop\\Repo\\AiSD\\.Prace domowe (konsola)\\BinarySearchTree\\BinaryTree\\Program.cs",
               "RelativeToolTip": "BinaryTree\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T16:16:26.818Z",
               "EditorCaption": ""

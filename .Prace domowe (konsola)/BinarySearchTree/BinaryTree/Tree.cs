@@ -127,17 +127,14 @@ namespace BinaryTree
                 NodeT nastepcaRodzica = current;
                 NodeT nastepca = current.prawe;
 
-                // Znajdź najmniejszy węzeł w prawym poddrzewie
                 while (nastepca.lewe != null)
                 {
                     nastepcaRodzica = nastepca;
                     nastepca = nastepca.lewe;
                 }
 
-                // Skopiuj wartość następnika do bieżącego węzła
                 current.data = nastepca.data;
 
-                // Usuń następnika
                 if (nastepcaRodzica.lewe == nastepca)
                 {
                     nastepcaRodzica.lewe = nastepca.prawe;
